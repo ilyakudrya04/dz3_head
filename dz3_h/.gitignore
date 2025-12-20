@@ -1,0 +1,15 @@
+# .gitignore
+build/
+*.vcxproj
+*.sln
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.log
+.DS_Store
+.vs/
+out/
+bin/
